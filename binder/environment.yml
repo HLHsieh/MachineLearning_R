@@ -4,13 +4,16 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - r-base=4.0.1
+  - r-base=4.0.5
   - python=3.8.8
   - r-dplyr
   - r-ggplot2
   - r-reshape2
   - r-tidyverse
   - r-caret
+  - r-ellipse
+  - r-e1071
+  - r-kernlab
   - pip
   - pip:
     - pandas
