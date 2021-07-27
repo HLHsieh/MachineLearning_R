@@ -1,3 +1,11 @@
+.bash_logout
+.bashrc
+.cache/
+.conda/
+.config/
+.gitconfig
+.ipynb_checkpoints/
+        
 # History files
 .Rhistory
 .Rapp.history
