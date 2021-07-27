@@ -5,7 +5,11 @@
 .config/
 .gitconfig
 .ipynb_checkpoints/
-        
+.jupyter-server-log.txt
+.local/
+.profile
+  
+  
 # History files
 .Rhistory
 .Rapp.history
